@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "531708101054",
+    "project_id": "eteach-936b6",
+    "storage_bucket": "eteach-936b6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:531708101054:android:c81e8a9e13926629a9b9ef",
+        "android_client_info": {
+          "package_name": "com.example.eteach"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBo-_1pk_ln-mTaGEyLuplaSwRk2TdZogU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
